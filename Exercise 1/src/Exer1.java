@@ -5,8 +5,6 @@ import java.util.Scanner;
 public class Exer1 {
 
     public static void main(String[] args) {
-        
-        //pa nakita moto sa master, gumana yung merge
         Scanner scanner = new Scanner(System.in);
 
         boolean exit = false;
