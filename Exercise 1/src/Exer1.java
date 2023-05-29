@@ -10,7 +10,7 @@ public class Exer1 {
         boolean exit = false;
         while (!exit) {
             System.out.println("-------------------");
-            System.out.println("Triangle Calculator");
+            System.out.println("Triangle Calculator changessss");
             System.out.println("1. Calculate Hypotenuse");
             System.out.println("2. Calculate Area");
             System.out.println("3. Exit");
